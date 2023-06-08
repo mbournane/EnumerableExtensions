@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\bin\Debug\net7.0\EnumerableExtensions.exe
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\bin\Debug\net7.0\EnumerableExtensions.deps.json
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\bin\Debug\net7.0\EnumerableExtensions.runtimeconfig.json
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\bin\Debug\net7.0\EnumerableExtensions.dll
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\bin\Debug\net7.0\EnumerableExtensions.pdb
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.AssemblyInfo.cs
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.dll
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\refint\EnumerableExtensions.dll
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.pdb
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\EnumerableExtensions.genruntimeconfig.cache
+C:\WildSchoul_Formation\S03\Quests\EnumerableExtensions\obj\Debug\net7.0\ref\EnumerableExtensions.dll
